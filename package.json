@@ -1,0 +1,23 @@
+{
+  "name": "node-hometask",
+  "version": "1.0.0",
+  "description": "A home task for EPAM Node.js course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepan-mateiko/node-hometask.git"
+  },
+  "author": "Stepan Mateiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stepan-mateiko/node-hometask/issues"
+  },
+  "homepage": "https://github.com/stepan-mateiko/node-hometask#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
